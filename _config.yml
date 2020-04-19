@@ -9,7 +9,7 @@ url: 'https://titenko-m.github.io/'
 facebook_username: name
 twitter_username: name
 github_username: name
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-admin
